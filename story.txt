@@ -1,4 +1,4 @@
 edited story in GitHub
 long
 text
-here
+here edited in Git

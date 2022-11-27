@@ -5,4 +5,4 @@ juomaa
 syötävää
 juotavaa
 ostoksia
-lisää ostoksia
+lisää ostoksia Gitissä

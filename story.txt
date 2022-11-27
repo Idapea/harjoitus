@@ -1,7 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaa
-beeeeeeeeeeeeeeeeeeeeeee
-ceeeeeeeeeeeeeeeeeeeeee
-deeeeeeeeeeeeeeeeeeee
-tekstiä
-tekstiä
+story 
+long
+text
+here

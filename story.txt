@@ -5,9 +5,3 @@ ceeeeeeeeeeeeeeeeeeeeee
 deeeeeeeeeeeeeeeeeeee
 tekstiä
 tekstiä
-
-more edits
-<<<<<<< Updated upstream
-edit this
-=======
->>>>>>> Stashed changes

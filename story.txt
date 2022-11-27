@@ -1,4 +1,4 @@
-story 
+edited story in GitHub
 long
 text
 here
